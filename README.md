@@ -140,20 +140,22 @@
 
 
 <!-- 1st Statistics -->
+<details>
+ <summary>:zap: <b>GitHub Streak Stats : </b></summary>
 <p align="center">
     <a href="https://github.com/SanchitaM2/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanchita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SanchitaM2&theme=deafult&hide_border=false&stroke=0000&background=#fffefe"/>
     </a>
 </p>
-
+</details>
 
 
 <!-- 2nd Statistics -->
-<br/>
+<!-- <br/> -->
 <details>
   <br/>
   <br/>
-  <summary><b> GitHub Stats : </b></summary>
+  <summary>:zap: <b> GitHub Stats : </b></summary>
   <p align="center"> 
   <a href="https://github.com/SanchitaM2/github-readme-stats"><img alt="Sanchita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanchitaM2&show_icons=true&count_private=true&theme=flag-india&hide_border=true&bg_color=#fffcfc" /></a>
   </p>
@@ -165,7 +167,7 @@
 <!-- 3rd Statistics -->
 <details>
   <br/>
-  <summary><b>Most Used Languages :</b></summary>
+  <summary>:zap: <b>Most Used Languages :</b></summary>
 <p align="center">
 <a href="https://github.com/SanchitaM2/github-readme-stats"><img alt="Sanchita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva&langs_count=8&count_private=true&layout=compact&theme=default&hide_border=true&bg_color=#fffcfc" /></a>
 </p>
@@ -181,7 +183,7 @@
 
 <!-- 4th Statistics -->
 <details>
-<summary><b>Contribution Graph :</b></summary>
+<summary>:zap: <b>Contribution Graph :</b></summary>
 <br/>
 <br/>
 <p align="center">
