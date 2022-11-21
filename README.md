@@ -41,7 +41,7 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/30/null/figma--v1.png"/> </a> 
    <!--  4. Adobe Illustrator --> 
     <a href="https://www.adobe.com/in/products/illustrator/free-trial-download.html?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrFvF7yxlA75UY9PEc3_aQhnvQPoxatUxBYaiVuoS80TKkEOh9miwT8aAhckEALw_wcB&sdid=MLR7SCFY&mv=search&ef_id=Cj0KCQiAveebBhD_ARIsAFaAvrFvF7yxlA75UY9PEc3_aQhnvQPoxatUxBYaiVuoS80TKkEOh9miwT8aAhckEALw_wcB:G:s&s_kwcid=AL!3085!3!248235017693!e!!g!!adobe%20illustrator!221172068!17525759228" target="_blank"><img src="https://img.icons8.com/color/32/null/adobe-illustrator--v1.png"/></a> 
-    <br>
+<!--     <br> -->
    <!--  5. VS Code --> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/30/null/visual-studio-code-2019.png"/> </a> 
     <!-- 6. HTML -->
@@ -56,7 +56,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/> </a> 
     <!-- 11. Tailwind CSS -->
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/24/null/tailwind_css.png"/></a> 
-    <br>
+<!--     <br> -->
     <!-- 12. Javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/30/000000/javascript.png"/> </a> &nbsp;
     <!-- 13. React JS & React Native -->
@@ -102,7 +102,7 @@
     <!-- 32. Firebase-->
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/firebase.png"/> </a> 
     <!-- 33. Socket io-->
-    <br>
+<!--     <br> -->
     <!-- 34. C-->
     <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://img.icons8.com/color/30/null/c-programming.png"/></a> &nbsp;
     <!-- 35. C++-->
@@ -111,7 +111,7 @@
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/color/30/null/c-sharp-logo-2.png"/></a> 
     <!-- 37. .net core -->
     <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"><img src="https://img.icons8.com/color/32/null/net-framework.png"/></a>
-    <br> 
+<!--     <br>  -->
     <!-- 28. Dart-->
     <a href="https://dart.dev/" target="_blank"><img src="https://img.icons8.com/color/32/null/dart.png"/></a> 
     <!-- 38. Flutter-->
@@ -120,7 +120,7 @@
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/30/null/kotlin.png"/></a>
     <!-- 39. Java-->
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> </a>
-    <br>
+<!--     <br> -->
     <!-- 40. Git-->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/git.png"/> </a> &nbsp;
     <!-- 41. Github-->
