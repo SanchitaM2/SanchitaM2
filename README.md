@@ -24,8 +24,8 @@
 <a href = "https://www.instagram.com/sanchita__dhara/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/@Sanchita_Dhara"><img src="https://img.icons8.com/color/30/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100010107612750"><img src="https://img.icons8.com/color-glass/30/null/facebook.png"/></a>
-<a href = "https://www.youtube.com"><img src="https://img.icons8.com/3d-fluency/30/null/gmail.png"/></a>
-<a href = "mailto:https://me@sanchita.dev"><img src="https://img.icons8.com/color/30/null/discord--v2.png"/></a>
+<a href = "me@sanchita.dev"><img src="https://img.icons8.com/3d-fluency/30/null/gmail.png"/></a>
+<a href = ""><img src="https://img.icons8.com/color/30/null/discord--v2.png"/></a>
 <!-- Social Icons End-->
 
 
