@@ -29,7 +29,7 @@
 <!-- Social Icons End-->
 
 
-### ◽ Languages and Tools :<br>
+###  Languages and Tools :<br>
 <!-- TODO: Make technologies links takes you to repositories -->
  </p> 
   <p align="left">
