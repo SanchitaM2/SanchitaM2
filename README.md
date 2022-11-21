@@ -3,14 +3,14 @@
  <img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Daughter, Developer, Creator, and Mentor!!
+# I'm a Daughter, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here at **[My Portfolio](https://sanchita.dev)**
 - 🔭 I’m currently working on **[Covid 19 Tracker](link)**
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 - 👯 I’m looking to collaborate on **Open Source Projects** 
 - 💬 Ask me anything about **Soft Skills**
 - 🥅 2022 Goals : Learn more about **web3**
-- 📫 How to reach me **sanchita.dhara3@gmail.com**
+- 📫 How to reach me **me@sanchita.dev**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi,Bengali)
 
