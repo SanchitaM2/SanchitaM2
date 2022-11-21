@@ -34,101 +34,101 @@
  </p> 
   <p align="left">
    <!-- 1. Photoshop --> 
-    <a href="https://www.adobe.com/in/products/photoshop/free-trial-download.html" target="_blank"><img src="https://img.icons8.com/color/32/null/adobe-photoshop--v1.png"/></a> 
+    <a href="https://www.adobe.com/in/products/photoshop/free-trial-download.html" target="_blank"><img src="https://img.icons8.com/color/30/null/adobe-photoshop--v1.png"/></a> 
    <!-- 2. Adobe XD --> 
-    <a href="https://www.adobe.com/in/products/xd/pricing/free-trial.html" target="_blank"><img src="https://img.icons8.com/color/32/null/adobe-xd--v1.png"/></a> 
+    <a href="https://www.adobe.com/in/products/xd/pricing/free-trial.html" target="_blank"><img src="https://img.icons8.com/color/30/null/adobe-xd--v1.png"/></a> 
     <!-- 3. Figma --> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/30/null/figma--v1.png"/> </a> 
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/28/null/figma--v1.png"/> </a> 
    <!--  4. Adobe Illustrator --> 
-    <a href="https://www.adobe.com/in/products/illustrator/free-trial-download.html?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrFvF7yxlA75UY9PEc3_aQhnvQPoxatUxBYaiVuoS80TKkEOh9miwT8aAhckEALw_wcB&sdid=MLR7SCFY&mv=search&ef_id=Cj0KCQiAveebBhD_ARIsAFaAvrFvF7yxlA75UY9PEc3_aQhnvQPoxatUxBYaiVuoS80TKkEOh9miwT8aAhckEALw_wcB:G:s&s_kwcid=AL!3085!3!248235017693!e!!g!!adobe%20illustrator!221172068!17525759228" target="_blank"><img src="https://img.icons8.com/color/32/null/adobe-illustrator--v1.png"/></a> 
+    <a href="https://www.adobe.com/in/products/illustrator/free-trial-download.html?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrFvF7yxlA75UY9PEc3_aQhnvQPoxatUxBYaiVuoS80TKkEOh9miwT8aAhckEALw_wcB&sdid=MLR7SCFY&mv=search&ef_id=Cj0KCQiAveebBhD_ARIsAFaAvrFvF7yxlA75UY9PEc3_aQhnvQPoxatUxBYaiVuoS80TKkEOh9miwT8aAhckEALw_wcB:G:s&s_kwcid=AL!3085!3!248235017693!e!!g!!adobe%20illustrator!221172068!17525759228" target="_blank"><img src="https://img.icons8.com/color/30/null/adobe-illustrator--v1.png"/></a> 
 <!--     <br> -->
    <!--  5. VS Code --> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/30/null/visual-studio-code-2019.png"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/28/null/visual-studio-code-2019.png"/> </a> 
     <!-- 6. HTML -->
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/html-5.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/html-5.png"/> </a> 
     <!-- 7. CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/css3.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/css3.png"/> </a> 
     <!-- 8. SASS -->
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/30/null/sass.png"/></a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/28/null/sass.png"/></a>
     <!-- 9. SCSS -->
-    <a href="https://github.com/postcss/postcss-scss"> <img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/30/null/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png"/> </a>
+    <a href="https://github.com/postcss/postcss-scss"> <img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/28/null/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png"/> </a>
     <!-- 10. Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/28/000000/bootstrap.png"/> </a> 
     <!-- 11. Tailwind CSS -->
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/24/null/tailwind_css.png"/></a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/22/null/tailwind_css.png"/></a> 
 <!--     <br> -->
     <!-- 12. Javascript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/30/000000/javascript.png"/> </a> &nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/28/000000/javascript.png"/> </a> &nbsp;
     <!-- 13. React JS & React Native -->
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/react-native.png"/></a>&nbsp;
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/react-native.png"/></a>&nbsp;
     <!-- 14. Next.js = built on React's UI library -->
-    <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluency-systems-regular/32/000000/nextjs.png"/></a>&nbsp;
+    <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluency-systems-regular/30/000000/nextjs.png"/></a>&nbsp;
     <!-- 15. Vue -->
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/28/null/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/></a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/26/null/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/></a>
     <!-- 16. Nuxt.js = for creating Vue. js applications -->
-    <a href="https://nuxtjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/null/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>&nbsp;&nbsp;
+    <a href="https://nuxtjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/28/null/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>&nbsp;&nbsp;
     <!-- 17. Type Script -->
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/28/null/typescript--v1.png"/></a>&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/26/null/typescript--v1.png"/></a>&nbsp;
     <!-- 18. Angular -->
-    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/26/null/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>&nbsp;
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>&nbsp;
     <!-- 19. Tensor Flow -->
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="24" height="24"/></a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="22" height="22"/></a>
     &nbsp;
     <!-- 20. Jquery -->
-    <a href="https://jquery.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/null/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>&nbsp;
+    <a href="https://jquery.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/18/null/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>&nbsp;
     <!-- 21. Node JS -->
-    <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/23/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/21/000000/nodejs.png"/> </a> 
     <!-- 22. Express JS -->
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="23" height="23"/> </a>&nbsp;
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="21" height="21"/> </a>&nbsp;
     <!-- 23. Nest JS = build Node. JS server-side applications-->
-    <a href="https://nestjs.com/" target="_blank"> <img src="https://img.icons8.com/color/30/null/nestjs.png"/></a>&nbsp;
+    <a href="https://nestjs.com/" target="_blank"> <img src="https://img.icons8.com/color/28/null/nestjs.png"/></a>&nbsp;
     <!-- 24. Redux-->
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/30/000000/redux.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/28/000000/redux.png"/> </a>
     <br>
     <!-- 25. Python-->
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/30/000000/python.png"/> </a> &nbsp;
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/28/000000/python.png"/> </a> &nbsp;
     <!-- 26. MongoDB-->
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a> &nbsp;
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="33" height="33"/> </a> &nbsp;
     <!-- 27. MySql-->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/40/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/38/000000/mysql-logo.png"/> </a>
     <!-- 28. SQL-->
-    <a style="padding-right:8px;" href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/color/30/null/microsoft-sql-server.png"/></a>
+    <a style="padding-right:8px;" href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/color/28/null/microsoft-sql-server.png"/></a>
     <!-- 29. Oracle-->
-    <a style="padding-right:8px;" href="https://www.oracle.com/in/" target="_blank"><img src="https://img.icons8.com/color/30/null/oracle-logo.png"/></a>
+    <a style="padding-right:8px;" href="https://www.oracle.com/in/" target="_blank"><img src="https://img.icons8.com/color/28/null/oracle-logo.png"/></a>
     <!-- 30. GraphQL-->
-    <a style="padding-right:8px;" href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/color/30/null/graphql.png"/></a>
+    <a style="padding-right:8px;" href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/color/28/null/graphql.png"/></a>
     <!-- 31. PostgreSql-->
-    <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/28/null/postgreesql.png"/></a>
+    <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/26/null/postgreesql.png"/></a>
     <!-- 32. Firebase-->
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/firebase.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/firebase.png"/> </a> 
     <!-- 33. Socket io-->
 <!--     <br> -->
     <!-- 34. C-->
-    <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://img.icons8.com/color/30/null/c-programming.png"/></a> &nbsp;
+    <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://img.icons8.com/color/28/null/c-programming.png"/></a> &nbsp;
     <!-- 35. C++-->
-    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"><img src="https://img.icons8.com/color/30/null/c-plus-plus-logo.png"/></a> &nbsp;
+    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"><img src="https://img.icons8.com/color/28/null/c-plus-plus-logo.png"/></a> &nbsp;
     <!-- 36. C#(c sharp)-->
-    <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/color/30/null/c-sharp-logo-2.png"/></a> 
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/color/28/null/c-sharp-logo-2.png"/></a> 
     <!-- 37. .net core -->
-    <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"><img src="https://img.icons8.com/color/32/null/net-framework.png"/></a>
+    <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"><img src="https://img.icons8.com/color/30/null/net-framework.png"/></a>
 <!--     <br>  -->
     <!-- 28. Dart-->
-    <a href="https://dart.dev/" target="_blank"><img src="https://img.icons8.com/color/32/null/dart.png"/></a> 
+    <a href="https://dart.dev/" target="_blank"><img src="https://img.icons8.com/color/30/null/dart.png"/></a> 
     <!-- 38. Flutter-->
-    <a href="https://flutter.dev/" target="_blank"><img src="https://img.icons8.com/color/28/null/flutter.png"/></a>
+    <a href="https://flutter.dev/" target="_blank"><img src="https://img.icons8.com/color/26/null/flutter.png"/></a>
     <!-- 28. Kotlin-->
-    <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/30/null/kotlin.png"/></a>
+    <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/28/null/kotlin.png"/></a>
     <!-- 39. Java-->
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/> </a>
 <!--     <br> -->
     <!-- 40. Git-->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/git.png"/> </a> &nbsp;
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/git.png"/> </a> &nbsp;
     <!-- 41. Github-->
-    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/30/null/github--v1.png"/></a> &nbsp;
+    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/28/null/github--v1.png"/></a> &nbsp;
     <!-- 42. Gitlab-->
-    <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/30/null/gitlab.png"/></a> &nbsp;
+    <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/28/null/gitlab.png"/></a> &nbsp;
     <!-- 43. Postman-->
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="28" height="28"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26" height="26"/> </a> 
        
   </p>
 <!-- End.. -->
