@@ -36,19 +36,19 @@
  
  <p align="left">
  <!-- 1. VS Code --> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/28/null/visual-studio-code-2019.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/30/null/visual-studio-code-2019.png"/> </a>
  <!-- 2. Html -->
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/html-5.png"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/html-5.png"/> </a> 
  <!-- 3. CSS -->
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/css3.png"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/css3.png"/> </a>
  <!-- 4. React -->
- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/28/000000/react-native.png"/></a>&nbsp;
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/30/000000/react-native.png"/></a>&nbsp;
  <!-- 5. Vue -->
- a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/26/null/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/></a>
+ <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/28/null/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png"/></a>
  <!-- 6. Node JS -->
- <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/21/000000/nodejs.png"/> </a> 
+ <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/23/000000/nodejs.png"/> </a> 
  <!-- 7. Mongo DB -->
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="33" height="33"/> </a> &nbsp;
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a> &nbsp;
  <!-- 8. VS Code -->
  </p>
  
@@ -246,10 +246,7 @@
 
 
 
-<br>
-<br>
-<br>
-<br>
+
 
 <!-- Language New -->
     
