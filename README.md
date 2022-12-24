@@ -212,7 +212,7 @@
 <br/>
 <br/>
 <p align="center">
-<a href="https://github.com/SanchitaM2/github-readme-activity-graph"><img alt="Sanchita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SanchitaM2&bg_color=fffcfc&color=A4DE04&line=FB8500&point=A4DE04&hide_border=true" /></a>
+<a href="https://github.com/SanchitaM2/github-readme-activity-graph"><img alt="Sanchita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arsentieva&bg_color=fffcfc&color=A4DE04&line=FB8500&point=A4DE04&hide_border=true" /></a>
 </p>
 </details>
 
